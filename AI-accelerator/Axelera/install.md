@@ -39,7 +39,7 @@ $AXELERA_DEVICE_DIR/firmware/interactive_flash_update.sh
 # Note: Please ensure that the device is completely powered off before turning it back on.
 ```
 ## 1-4.Axelera - Run First Demo
-```
+```shell
 cd voyager-sdk
 source venv/bin/activate
 
