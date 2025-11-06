@@ -44,3 +44,6 @@ source venv/bin/activate
 
 ./inference.py yolo11s-coco-onnx media/traffic1_720p.mp4
 ```
+## 1-5.Axelera - custom weights deployment
+### Refer : docs/tutorials/custom_weights.md
+### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/custom_weights.md
