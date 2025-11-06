@@ -3,8 +3,8 @@ The following steps are based on Axelera SDK Release version v1.4.0. It is recom
 ### https://github.com/axelera-ai-hub/voyager-sdk/
 
 ## 1-1.Axelera - SDK Installation (Release version v1.4.0)
-### Refer : docs/tutorials/install.md
-### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/install.md
+Refer : docs/tutorials/install.md
+https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/install.md
 ```shell
 git clone https://github.com/axelera-ai-hub/voyager-sdk.git
 cd voyager-sdk
@@ -16,8 +16,8 @@ It is recommended to refer to the latest release version available at the provid
 
 ## 1-2.Axelera - enable_updates
 Please follow the steps below. Note that Steps 1-2 and 1-3 are optional and may be skipped based on your requirements.
-### Refer : docs/tutorials/enable_updates.md
-### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/enable_updates.md
+Refer : docs/tutorials/enable_updates.md
+https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/enable_updates.md
 ```shell
 cd voyager-sdk
 source venv/bin/activate
@@ -29,8 +29,8 @@ chmod +x enable_bootloader_update.sh
 # Note: Please ensure that the device is completely powered off before turning it back on.
 ```
 ## 1-3.Axelera - firmware_flash_update
-### Refer : docs/tutorials/firmware_flash_update.md
-### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/firmware_flash_update.md
+Refer : docs/tutorials/firmware_flash_update.md
+https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/firmware_flash_update.md
 ```shell
 cd voyager-sdk
 source venv/bin/activate
@@ -47,5 +47,5 @@ source venv/bin/activate
 ./inference.py yolo11s-coco-onnx media/traffic1_720p.mp4
 ```
 ## 1-5.Axelera - custom weights deployment
-### Refer : docs/tutorials/custom_weights.md
-### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/custom_weights.md
+Refer : docs/tutorials/custom_weights.md
+https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/custom_weights.md
