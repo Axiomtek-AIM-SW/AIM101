@@ -1,6 +1,7 @@
+![](https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/images/Ax_Page_Banner_2500x168_01.png)
 The following steps are based on Axelera SDK Release version v1.4.0. It is recommended to refer to the latest release version available at the provided URL for corresponding installation instructions. (Update Date: 2025/10/02)
-
 ### https://github.com/axelera-ai-hub/voyager-sdk/
+
 ## 1-1.Axelera - SDK Installation (Release version v1.4.0)
 ### Refer : docs/tutorials/install.md
 ### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/install.md
