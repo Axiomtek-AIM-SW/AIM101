@@ -12,8 +12,8 @@ cd voyager-sdk
 source venv/bin/activate
 ```
 It is recommended to refer to the latest release version available at the provided URL for corresponding installation instructions. 
-Please follow the steps below to enable updates and perform a firmware flash update.
 
+Please follow the steps below. Note that Steps 1-2 and 1-3 are optional and may be skipped based on your requirements.
 ## 1-2.Axelera - enable_updates
 ### Refer : docs/tutorials/enable_updates.md
 ### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/enable_updates.md
