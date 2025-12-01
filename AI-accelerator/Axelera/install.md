@@ -6,7 +6,6 @@ The following steps are based on Axelera SDK Release version v1.5.1. It is recom
 ### Refer : docs/tutorials/install.md
 ### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.5/docs/tutorials/install.md
 ```shell
-cd ~/
 git clone https://github.com/axelera-ai-hub/voyager-sdk.git
 cd ~/voyager-sdk
 ./install.sh --all --media
@@ -32,7 +31,7 @@ sudo poweroff
 ```
 ## 1-3.Axelera - firmware_flash_update
 ### Refer : docs/tutorials/firmware_flash_update.md
-### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/firmware_flash_update.md
+### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.5/docs/tutorials/firmware_flash_update.md
 ```shell
 cd ~/voyager-sdk
 source venv/bin/activate
