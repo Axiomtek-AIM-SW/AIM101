@@ -96,4 +96,4 @@ source venv/bin/activate
 ```
 ## 1-5.Axelera - custom weights deployment
 ### Refer : docs/tutorials/custom_weights.md
-### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.4/docs/tutorials/custom_weights.md
+### https://github.com/axelera-ai-hub/voyager-sdk/blob/release/v1.5/docs/tutorials/custom_weights.md
